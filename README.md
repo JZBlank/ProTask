@@ -1,6 +1,6 @@
 
-# TaskPlus (Task++)
-TaskPlus is an application that allows users to keep track of their daily goals/to dos in hopes to get rid of procrastination and be productive for the day.
+# Task++
+Task++ is an application that allows users to keep track of their daily goals/to dos in hopes to get rid of procrastination and be productive for the day.
 
 
 WireFrames (Work in Progress):
